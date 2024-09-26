@@ -1,0 +1,14 @@
+{
+  "name": "uuid-layer",
+  "version": "1.0.0",
+  "description": "UUID dependency layer for AWS lambdas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karen Sayadyan",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
